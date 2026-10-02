@@ -43,7 +43,7 @@ The dashboard was designed to answer questions such as:
 ---
 
 ## Dashboard Preview
-![Afrimaart_KollyBright_Dataset_Dashboard](Afrimat kollyBright Dashboard.png)
+![Afrimaart_KollyBright_Dataset_Dashboard](Afrimart_KollyBright_Dataset_Dashboard.png)
 
 ---
 
